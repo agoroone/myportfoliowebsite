@@ -1,0 +1,22 @@
+.heroImage {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url("zainab.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.heroContents {
+    padding: 100px;
+    text-align: center;
+    color: white;
+    
+}
+
+.center {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+  
+   
+}
